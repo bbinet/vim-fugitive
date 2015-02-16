@@ -50,6 +50,7 @@ that are part of Git repositories).
                         dp    |:Git!| diff (p for patch; use :Gw to apply)
                         dp    |:Git| add --intent-to-add (untracked files)
                         dv    |:Gvdiff|
+                        dt    |:Gvdiff| (in new tab)
                         O     |:Gtabedit|
                         o     |:Gsplit|
                         p     |:Git| add --patch
